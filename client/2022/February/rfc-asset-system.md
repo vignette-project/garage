@@ -1,4 +1,4 @@
-# Asset System RFC
+# Asset System Specification
 
 *Author: [@LeNitrous](https//github.com/LeNitrous)*
 

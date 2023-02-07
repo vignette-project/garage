@@ -1,4 +1,4 @@
-# Model API RFC
+# Model API Specification
 
 *Author: [@sr229](https://git.io/sr229) and [@LeNitrous](https://github.com/LeNitrous)*
 

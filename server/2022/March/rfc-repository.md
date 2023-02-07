@@ -1,4 +1,4 @@
-# Extension System: Remote Repository RFC
+# Extension System: Remote Repository Specification
 
 *Author: [@JcdeA](https://github.com/JcdeA) and [@sr229](https://github.com/sr229)*
 
@@ -75,7 +75,7 @@ This is a rather simple API that tells Vignette that this repository has no dyna
 }
 ```
 
-This is similar to a NuGet repository where a API endpoint will provide API resources for Vignette to query upon on. Currently, the v1 spec included in this RFC should only support the following:
+This is similar to a NuGet repository where a API endpoint will provide API resources for Vignette to query upon on. Currently, the v1 spec included in this Specification should only support the following:
 
 - `UserAuthentication` 
    - An OAuth2.0 endpoint for the User to autenticate to. Should return a valid JWT token for Vignette to use for querying the repository.

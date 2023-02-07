@@ -1,4 +1,4 @@
-# Extension System : IO RFC
+# Extension System : IO Specification
 
 *Author: [@sr229](https://git.io/sr229)*
 

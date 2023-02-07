@@ -1,4 +1,4 @@
-# The Virtual Filesystem RFC
+# The Virtual Filesystem Specification
 
 *Author: [@sr229](https://git.io/sr229)*
 
